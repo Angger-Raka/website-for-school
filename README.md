@@ -15,7 +15,7 @@ Overall, Flutter School Profile aims to enhance the online presence of education
 
 ## Screenshots
 
-//![App Screenshot](https://github.com/Angger-Raka/simple-chat-private/blob/master/1.png?raw=true)
+![App Screenshot](https://github.com/Angger-Raka/simple-chat-private/blob/master/1.png?raw=true)
 
 
 ## Feedback
