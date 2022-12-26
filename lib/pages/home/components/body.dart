@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:login_with_firebase/pages/home/components/category.dart';
+import 'package:login_with_firebase/pages/home/components/feedback.dart';
+import 'package:login_with_firebase/pages/home/components/footer.dart';
 import 'package:login_with_firebase/pages/home/components/news.dart';
 import 'package:login_with_firebase/pages/home/components/profile.dart';
 
@@ -14,6 +17,9 @@ class Body extends StatelessWidget {
         Introduce(),
         Profile(),
         News(),
+        ListCategory(),
+        FeedbackCorousel(),
+        Footer()
       ],
     );
   }
