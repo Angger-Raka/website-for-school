@@ -10,6 +10,7 @@ Overall, Flutter School Profile aims to enhance the online presence of education
 ## Authors
 
 - [@Angger-Raka](https://www.github.com/Angger-Raka)
+- [@Hamzah-Radifa-Putra](https://www.facebook.com/hamzah.r.putra.3)
 
 
 ## Screenshots
